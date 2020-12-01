@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-posts-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-posts-app/static/js/main.e71bc62e.chunk.js",
+    "main.js.map": "/React-posts-app/static/js/main.e71bc62e.chunk.js.map",
+    "runtime-main.js": "/React-posts-app/static/js/runtime-main.4f4bf4a3.js",
+    "runtime-main.js.map": "/React-posts-app/static/js/runtime-main.4f4bf4a3.js.map",
+    "static/css/2.43b2b750.chunk.css": "/React-posts-app/static/css/2.43b2b750.chunk.css",
+    "static/js/2.fcc75001.chunk.js": "/React-posts-app/static/js/2.fcc75001.chunk.js",
+    "static/js/2.fcc75001.chunk.js.map": "/React-posts-app/static/js/2.fcc75001.chunk.js.map",
+    "static/js/3.d2224f87.chunk.js": "/React-posts-app/static/js/3.d2224f87.chunk.js",
+    "static/js/3.d2224f87.chunk.js.map": "/React-posts-app/static/js/3.d2224f87.chunk.js.map",
+    "index.html": "/React-posts-app/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/React-posts-app/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-posts-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fcc75001.chunk.js.LICENSE.txt": "/React-posts-app/static/js/2.fcc75001.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f4bf4a3.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.fcc75001.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e71bc62e.chunk.js"
+  ]
+}
